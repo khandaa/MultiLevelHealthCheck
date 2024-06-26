@@ -1,0 +1,6 @@
+fastapi
+json
+httpx
+yaml
+logging
+typing
